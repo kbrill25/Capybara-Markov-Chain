@@ -14,3 +14,5 @@ where
 E represents Eat
 SL represents Sleep
 SW represents Swim
+
+Visualization of Markov Chain included in PDF file
